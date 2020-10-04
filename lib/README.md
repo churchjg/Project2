@@ -2,6 +2,7 @@
 This is a take on the famous card game "War" that is played in a user's browser console. To open the console:
 For Mac's (Hold down Cmd + Option + J), for Windows (Hold down Cmd + Shift + J). There is no interactive gameplay, the game will run on it's own. The game is prompted to great two players, create a deck of cards, shuffle said deck, deal the deck to the two players, and automate the rounds until a winner is determined. 
 To get a full list of the rules of the game, please go [here](https://bicyclecards.com/how-to-play/war/).
+The rules are also briefly laid out on the game's main page.
 
 ## To Play This Game
 * My version of this game can be accessed [here](https://churchjg.github.io/Project2_fix/lib/)
