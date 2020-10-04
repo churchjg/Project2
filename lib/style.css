@@ -23,6 +23,10 @@ p {
     font-weight: bold;
 }
 
+a {
+    font-size: 20px;
+}
+
 #button:hover {
     border: 5px solid green;
     color: green;
